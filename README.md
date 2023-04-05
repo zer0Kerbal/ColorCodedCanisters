@@ -1,2 +1,0 @@
-# ColorCodedCanisters
-Color Coded Canisters 
